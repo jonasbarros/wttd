@@ -1,0 +1,19 @@
+body {
+	background: #ccc;
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	top: 50px;
+	position: absolute;
+	font-family: "arial";
+	color: #444;
+	position: absolute;
+	text-align:center;
+	width: 100%;
+}
+
+p {
+	font-style: italic;
+}
